@@ -1364,7 +1364,7 @@ body {
   min-height: 100vh;
 }
 .cid-qEP15ThYUE {
-  background-image: url("../../../assets/images/1-2000x1500.jpg");
+  background-image: url("../../../assets/images/1-1-2000x1500.jpg");
 }
 .cid-qEP15ThYUE H1 {
   color: #41494b;
@@ -1380,7 +1380,7 @@ body {
   background-image: url("../../../assets/images/depositphotos-154073708-original-2000x1333.jpg");
 }
 .cid-qEPdTWzr8s .mbr-text {
-  color: #1f2628;
+  color: #41494b;
 }
 .cid-qEPdTWzr8s h4 {
   text-align: center;
@@ -1391,6 +1391,10 @@ body {
 .cid-qEPdTWzr8s .card-img span {
   font-size: 96px;
   color: #149dcc;
+}
+.cid-qEPdTWzr8s .card-title,
+.cid-qEPdTWzr8s .card-img B {
+  color: #41494b;
 }
 .cid-qEPoUJuK2K {
   padding-top: 60px;
@@ -1484,7 +1488,7 @@ body {
   background-image: url("../../../assets/images/rodion-kutsaev-24833-2000x1333.jpg");
 }
 .cid-qELAwAbXxn {
-  background-image: url("../../../assets/images/mac-vamoos-1200x716.jpg");
+  background-image: url("../../../assets/images/laptop-1200x716.jpg");
 }
 .cid-qELAwAbXxn h1 {
   color: #616161;
@@ -1510,6 +1514,33 @@ body {
   padding-bottom: 60px;
   background-image: url("../../../assets/images/rodion-kutsaev-24833-2000x1333.jpg");
 }
+.cid-qFuPnIjo1u {
+  background-image: url("../../../assets/images/1-focus-2000x1111.png");
+}
+.cid-qFuPnIjo1u h1 {
+  color: #616161;
+}
+.cid-qFuPnIjo1u h2,
+.cid-qFuPnIjo1u h3,
+.cid-qFuPnIjo1u p {
+  color: #767676;
+}
+.cid-qFuPnIjo1u .mbr-section-subtitle {
+  font-style: italic;
+}
+.cid-qFuPnIjo1u H1 {
+  text-align: right;
+  color: #41494b;
+}
+.cid-qFuPnIjo1u P {
+  text-align: right;
+  color: #41494b;
+}
+.cid-qFuPp0MLC2 {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-image: url("../../../assets/images/rodion-kutsaev-24833-2000x1333.jpg");
+}
 .cid-qEP5McyOK1 {
   background-image: url("../../../assets/images/pexels-photo-2000x1333.jpg");
 }
@@ -1518,5 +1549,13 @@ body {
   color: #41494b;
 }
 .cid-qEP5McyOK1 H1 {
+  color: #41494b;
+}
+.cid-qFv2Bbexca {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #c1c1c1;
+}
+.cid-qFv2Bbexca .media-container-row .mbr-text {
   color: #41494b;
 }
